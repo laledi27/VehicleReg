@@ -1,0 +1,1 @@
+This Java program manages the registration of vehicles by modeling real-world entities using object-oriented principles. It defines a Vehicle class with properties like make, model, year, and registration number. The system leverages constructors to initialize vehicle data and may include inheritance
